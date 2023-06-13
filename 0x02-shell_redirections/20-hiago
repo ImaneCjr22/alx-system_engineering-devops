@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell, I/O 
+tr -d "Cc"
