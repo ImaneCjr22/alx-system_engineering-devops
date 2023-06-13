@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell, I/O Red
+Shell, I/O Re
