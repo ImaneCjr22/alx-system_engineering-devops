@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell, I/O Redirectio
+Shell, I/O Redirecti
