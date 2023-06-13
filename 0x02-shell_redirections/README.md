@@ -1,2 +1,2 @@
 #!/bin/bash
-Shell, I/O Redirections and filter
+Shell, I/O Redirection and filter
